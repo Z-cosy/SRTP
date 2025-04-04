@@ -1,6 +1,8 @@
 ---
 theme: seriph
-aspectRatio: '16/9'
+transition: fade
+background: #fff
+class: text-center
 layout: image-right
 image: './images/cover.png'  # 注意这里使用相对路径
 ---
